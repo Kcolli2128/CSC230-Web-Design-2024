@@ -5,9 +5,28 @@
    
    PHCT Typographic Style Sheet
    Author: Kannyele Collins
-   Date:   
+   Date:   10/27/2024
    
    Filename: ph_styles.css
+   <meta charset= "utf-8">
+
+
+      @font-face {
+   font-family: 'Chmpange';
+   src: url('cac_champagne.woff') format('woff'),
+        url('cac_champagne.ttf')  format('truetype');
+}
+   @font-face {
+     font-family: 'Grunge';
+     src: url('1942.woff') format('woff'),
+          url('1092.tff') format('truetype');
+
+}
+   @font-face {
+     font-family: 'Dobkin';
+     src: url('DobkinPlain.woff') format('woff')
+          url('DobkinPlain.ttf') format('truetype');
+}
 
 */
 
