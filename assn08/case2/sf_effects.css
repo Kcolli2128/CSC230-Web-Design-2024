@@ -50,8 +50,13 @@ body > header nav tabs li:hover {
 
 /* Center Article Styles */
 
+section#left nav.vertical {
+   border: 1px solid rgb(20, 167, 170);
+}
 
-
+section#left nav.vertical {
+   border-radius: 25px 25px 0px;
+}
 
 /* Blockquote Styles */
 
