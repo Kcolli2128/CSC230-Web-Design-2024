@@ -50,6 +50,10 @@ col.dataCols {
    width: 19%;
 }
 
+thead > tr {
+   height: 60px;
+   
+}
 
 
 
