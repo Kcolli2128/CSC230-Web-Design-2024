@@ -20,7 +20,12 @@ table {
 }
 
 
+th, td {
+   border:3px solid gray;
+   line-height: 1.4em;
+   padding:8px;
 
+}
 
 
 /* Column Styles */
