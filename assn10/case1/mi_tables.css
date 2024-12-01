@@ -27,6 +27,12 @@ th, td {
 
 }
 
+th {
+   background-color: black;
+   color: rgb(130, 210, 255);
+   font-weight: normal;
+}
+
 
 /* Column Styles */
 
