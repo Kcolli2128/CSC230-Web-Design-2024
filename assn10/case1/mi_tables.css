@@ -42,8 +42,12 @@ th {
 
 /* Column Styles */
 col#firstCol {
-   width: 14%;
+   width: 24%;
 
+}
+
+col.dataCols {
+   width: 19%;
 }
 
 
