@@ -171,6 +171,16 @@ aside {
    display: none;
 }
 
+aside {
+   float: left;
+   width: 40%;
+}
+
+article {
+   float: left;
+   margin-right: 5%;
+   width: 55%;
+}
 /* Footer Styles */
 
 body > footer {
