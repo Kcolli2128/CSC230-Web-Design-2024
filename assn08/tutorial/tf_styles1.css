@@ -85,6 +85,14 @@ nav.horizontal a {
    line-height: 2.2em;
 }
 
+nav.horizontal::after {
+   clear: both;
+   content: "";
+   display: table;
+   
+
+}
+
 /* Main Menu Styles */
 
 ul.mainmenu {
@@ -117,6 +125,14 @@ ul.submenu {
    box-shadow: rgb(51, 51, 51) 5px 5px 15px;
    position: absolute;
    width: 200%;
+}
+
+ul.submenu {
+   background: transparent;
+   box-shadow: none;
+   display: block;
+   position: relative;
+   width: 100%;
 }
 
 
