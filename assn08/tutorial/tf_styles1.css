@@ -80,6 +80,11 @@ nav.horizontal a:hover, nav.horizontal a:active {
    color: white;
 }
 
+nav.horizontal a {
+   font-size: 1.5em;
+   line-height: 2.2em;
+}
+
 /* Main Menu Styles */
 
 ul.mainmenu {
@@ -132,6 +137,10 @@ section p {
 aside {
    display: block;
    background-color: rgb(181, 204, 136);
+}
+
+aside {
+   display: none;
 }
 
 /* Footer Styles */
