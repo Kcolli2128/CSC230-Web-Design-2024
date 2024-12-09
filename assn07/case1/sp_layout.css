@@ -20,7 +20,7 @@ html {
 
 
 body {
-   width: 95%
+   width: 95%;
    min-width: 640px;
    max-width: 960px;
 
@@ -39,12 +39,22 @@ header, ul, nav, li, a {
 
 
 /* Row Styles */
+.row::after {
+   clear: both;
+   content: "";
+   display: table;
+}
 
 
 
 
 
 /* Page Header Styles */
+body > header > img {
+   display: block;
+   width: 70%;
+   float: left;
+}
 
 
 
