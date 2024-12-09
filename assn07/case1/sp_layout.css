@@ -56,6 +56,20 @@ body > header > img {
    float: left;
 }
 
+body > header > nav {
+   float: left;
+   padding-left: 2%;
+   padding-right: 2%;
+   width: 30%;
+}
+
+body > header > nav > ul > li > a {
+   display: block;
+   width: 100%;
+}
+
+
+
 
 
 
