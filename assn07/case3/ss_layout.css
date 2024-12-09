@@ -38,6 +38,11 @@ article p:first-of-type::first-letter {
    margin-bottom: 5px;
 }
 
+aside {
+   float: left;
+   width: 768px;
+}
+
 
  
 
