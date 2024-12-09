@@ -19,6 +19,24 @@ html {
 }
 
 
+body {
+   width: 95%
+   min-width: 640px;
+   max-width: 960px;
+
+
+   margin-left: auto;
+   margin-right: auto;
+
+   min-height: 100%;
+
+}
+
+header, ul, nav, li, a {
+   box-sizing: border-box;
+
+}
+
 
 
 
