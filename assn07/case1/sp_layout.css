@@ -33,7 +33,9 @@ body {
 }
 
 
-
+header, ul, nav, li, a {
+   box-sizing: border-box;
+}
 
 
 /* Row Styles */
