@@ -94,7 +94,11 @@ ul#topics > li {
 }
 
 ul#topics li:first-of-type {
-   margin-left: 5.75%;
+   margin-left: 7.75%;
+}
+
+ul#topics li:last-of-type {
+   margin-left: 7.75%;
 }
 
 ul#topics li img {
