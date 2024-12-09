@@ -93,7 +93,9 @@ nav.horizontal > ul > li {
 
 
 /* HR Styles */
-
+hr {
+   width: 50%;
+}
 
 
 
@@ -102,5 +104,9 @@ nav.horizontal > ul > li {
 
 
 /* Footer Styles */
+footer {
+   clear: both;
+}
+
 
 
